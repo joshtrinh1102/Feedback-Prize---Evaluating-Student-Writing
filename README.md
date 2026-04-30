@@ -1,6 +1,8 @@
 # Feedback Prize - Evaluating Student Writing
 
-This project uses NLP architectures (LSTM, DeBERTa, and Longformer) to identify and classify rhetorical elements in student essays. Team Members: Hashim Khan, Sherman LaCost, Josh Trinh
+This project uses NLP architectures (LSTM, DeBERTa, and Longformer) to identify and classify rhetorical elements in student essays. 
+
+Team Members: Hashim Khan, Sherman LaCost, Josh Trinh
 ---
 
 ## 📁 Repository Structure
